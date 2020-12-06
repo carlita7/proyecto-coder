@@ -1,0 +1,17 @@
+
+
+Agregué los meta keywords relacionados a mí y al desarrollo web
+Agregué un meta description 
+Ajusté los tittles en cada htmla algo más relacionado a la página y a mí
+Revisé la jerarquía de h1 y h2 que utilizo, están bien.
+la navegación, siempre se puede volver o navegar entre páginas
+Las imágenes ya las tenía optimizadas en peso y formato con tinypng
+
+ en index.html
+  <!-- Required meta tags -->
+  <meta charset="utf-8" />
+  <meta name="description" content="Página de Carla Torrez, desarrollo web y otros servicios de IT">
+  <meta name="keywords" content="HTML,CSS,XML,JavaScript, desarrollo, Carla, Torrez">
+  <meta name="author" content="Carla Torrez">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Carla Torrez, desarrolladora Web</title>
